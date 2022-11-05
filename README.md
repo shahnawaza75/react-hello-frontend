@@ -30,8 +30,6 @@ Run the following commands to run the app
 - rails s
   In your browser, go to
 
-http://localhost:3000
-
 ## Author
 
 👤 **Shahnawaz Ali**
